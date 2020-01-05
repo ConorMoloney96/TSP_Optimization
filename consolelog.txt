@@ -1,0 +1,125 @@
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  36.119876502452186
+Solution:  [6, 12, 14, 3, 4, 7, 13, 8, 1, 11, 9, 10, 2, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.828317520454547
+Best solution:  [6, 12, 14, 7, 13, 8, 11, 9, 10, 1, 2, 3, 4, 5]
+Improvement over nearest neighbour heuristic:  11.88%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  31.882529491055877
+Solution:  [12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.828317520454544
+Best solution:  [12, 6, 5, 4, 3, 2, 1, 10, 9, 11, 8, 13, 7, 14]
+Improvement over nearest neighbour heuristic:  0.17%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  38.68810773852191
+Solution:  [1, 8, 11, 9, 10, 2, 14, 12, 6, 7, 13, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  32.15857983496817
+Best solution:  [1, 10, 9, 11, 13, 7, 14, 12, 6, 5, 4, 3, 2, 8]
+Improvement over nearest neighbour heuristic:  16.88%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  37.94219380554234
+Solution:  [8, 1, 11, 9, 10, 2, 14, 12, 6, 7, 13, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.208766207101625
+Best solution:  [8, 2, 14, 3, 4, 5, 6, 12, 7, 13, 11, 9, 10, 1]
+Improvement over nearest neighbour heuristic:  17.75%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  31.882529491055877
+Solution:  [12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  30.878503892588004
+Best solution:  [12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5, 6]
+Improvement over nearest neighbour heuristic:  3.15%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  36.50430528972049
+Solution:  [3, 14, 12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  32.17672873729409
+Best solution:  [3, 2, 10, 9, 11, 1, 8, 13, 7, 14, 12, 6, 5, 4]
+Improvement over nearest neighbour heuristic:  11.85%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  38.324413999897246
+Solution:  [10, 9, 11, 8, 1, 2, 14, 12, 6, 7, 13, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.226915109427544
+Best solution:  [10, 9, 11, 1, 8, 13, 7, 12, 6, 5, 4, 3, 14, 2]
+Improvement over nearest neighbour heuristic:  18.52%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  35.40670977378927
+Solution:  [7, 13, 8, 1, 11, 9, 10, 2, 14, 12, 6, 4, 3, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  30.878503892588004
+Best solution:  [7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5, 6, 12]
+Improvement over nearest neighbour heuristic:  12.79%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  33.84835846148926
+Solution:  [14, 12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.828317520454547
+Best solution:  [14, 7, 13, 8, 11, 9, 10, 1, 2, 3, 4, 5, 6, 12]
+Improvement over nearest neighbour heuristic:  5.97%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  31.882529491055877
+Solution:  [12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.882529491055877
+Best solution:  [12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5]
+Improvement over nearest neighbour heuristic:  0.00%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  35.40670977378927
+Solution:  [7, 13, 8, 1, 11, 9, 10, 2, 14, 12, 6, 4, 3, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.22691510942754
+Best solution:  [7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5, 6, 12]
+Improvement over nearest neighbour heuristic:  11.81%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  38.324413999897246
+Solution:  [9, 11, 8, 1, 2, 14, 12, 6, 7, 13, 3, 4, 5, 10]
+Starting annealing.
+Best fitness obtained through simulated annealing:  30.878503892588
+Best solution:  [9, 11, 8, 13, 7, 12, 6, 5, 4, 3, 14, 2, 1, 10]
+Improvement over nearest neighbour heuristic:  19.43%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  31.882529491055877
+Solution:  [12, 6, 7, 13, 8, 1, 11, 9, 10, 2, 14, 3, 4, 5]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.828317520454544
+Best solution:  [12, 14, 7, 13, 8, 11, 9, 10, 1, 2, 3, 4, 5, 6]
+Improvement over nearest neighbour heuristic:  0.17%
+
+runfile('C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project/main.py', wdir='C:/Workarea/MIS41160-Optimisation in Business-201920 Autumn - 9252019 - 259 PM/Project')
+Reloaded modules: nearest_neighbour
+Best fitness obtained:  38.88450394322012
+Solution:  [11, 9, 1, 8, 2, 14, 12, 6, 7, 13, 3, 4, 5, 10]
+Starting annealing.
+Best fitness obtained through simulated annealing:  31.208766207101625
+Best solution:  [11, 13, 7, 12, 6, 5, 4, 3, 14, 2, 8, 1, 10, 9]
+Improvement over nearest neighbour heuristic:  19.74%
